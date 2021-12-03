@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: Quicksand;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #212529;
+  font-weight: lighter;
+  font-weight: bold;
+  color: #fff;
+}
+
+#projects {
+  background-color: #212529;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+.familiar {
+  justify-content: center;
+}
+
+.imgItem {
+  margin-bottom: 6rem;
+}
+
+p {
+  font-weight: lighter;
+}
